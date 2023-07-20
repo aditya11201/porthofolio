@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.Home {
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+    background: linear-gradient(0deg, #FBFBFB 0%, #FBFBFB 100%);
+    background-color: black 100%;
+    background-image: url(/img/bgimg.jpg);
+    background-size: cover;
+
+}
+
+.Header {
+    width: 858px;
+    height: 23px;
+    left: 811px;
+    top: 78px;
+    position: absolute
+}
+
+.Logo {
+    width: 50.06px;
+    height: 55px;
+    left: 251px;
+    top: 69px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex
+}
+
+.Nama a {
+    left: 319px;
+    top: 85px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 900;
+}
+
+.Home1 a {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word;
+
+}
+
+.AboutMe a {
+    left: 144px;
+    top: 0px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.DataDiri a {
+    left: 304px;
+    top: 0px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.Resume a {
+    left: 460px;
+    top: 0px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.Project a {
+    left: 626px;
+    top: 0px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.Contact a {
+    left: 787px;
+    top: 0px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+/* element a */
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/* element a */
+
+.Welcomessage {
+    left: 251px;
+    top: 330px;
+    position: absolute
+}
+
+.judul1 {
+    left: 251px;
+    top: 290px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.judul2 {
+    left: 251px;
+    top: 350px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 72px;
+    font-family: Roboto;
+    font-weight: 900;
+    word-wrap: break-word
+}
+
+.judul3 {
+    left: 251px;
+    top: 545px;
+    position: absolute;
+    color: #99AEB9;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+/* Logo Sosmed */
+
+.Instagram {
+    width: 39.92px;
+    height: 39.92px;
+    left: 383.08px;
+    top: 940.63px;
+    position: absolute
+}
+
+.Linkedin {
+    width: 39.92px;
+    height: 39.92px;
+    left: 314.04px;
+    top: 937px;
+    position: absolute
+}
+
+.Git {
+    width: 39.92px;
+    height: 39.92px;
+    left: 251px;
+    top: 947px;
+    position: absolute;
+}
+
+/* Logo Sosmed */
